@@ -30,7 +30,7 @@ if question:
 
     answer = connection.run(question)
 
-    st.header('🌌 Cosmic Insight:')
+    st.header('🌌 Your Answer:')
     st.balloons()
     st.write(answer)
 
