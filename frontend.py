@@ -13,10 +13,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Add an icon and playful text to the header
 st.header('🚀 Explore the T-Shirt Universe', divider='rainbow')
 
-# Add a disclaimer about the model and ownership
 st.info("ℹ️ Using LLM (Large Language Model) with few-shot tuning. \n\n"
          )
 
